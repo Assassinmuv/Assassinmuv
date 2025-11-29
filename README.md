@@ -14,7 +14,7 @@ __ :suspect: Привет мир:suspect:__\
 |2| 🎮 | games|
 |3| :suspect: | DOOM|
 ## 📱 Телефон
-![Cool guy](https://raw.githubusercontent.com/Assassinmuv/Assassinmuv/main/Nokia.jpg)
+[Легенда телефонов](https://raw.githubusercontent.com/Assassinmuv/Assassinmuv/main/Nokia.jpg)
 
 ### 📈 Cod 📉
 > [!TIP]
