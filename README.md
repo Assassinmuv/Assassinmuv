@@ -1,16 +1,37 @@
-## Hi there 👋
+![Cool guy](https://raw.githubusercontent.com/Assassinmuv/Assassinmuv/main/Rubick.jpg)
 
-<!--
-**Assassinmuv/Assassinmuv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# us Lebedev Kirill Dmitrievich :trollface:
 
-Here are some ideas to get you started:
+> [!NOTE]
+_Привет мир_\
+__ :suspect: Привет мир:suspect:__\
+~~Привет мир~~
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+|Это|Крутая|Табличка|
+|:-|:-:|-:|
+|1|  :octocat: | ok |
+|2| 🎮 | games|
+|3| :suspect: | DOOM|
+## 📱 Телефон
+![Cool guy](https://raw.githubusercontent.com/Assassinmuv/Assassinmuv/main/Nokia.jpg)
+
+### 📈 Cod 📉
+> [!TIP]
+**Пример работы C#**
+
+```C#
+using System;
+
+namespace Assassinmuw 
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Привет мир");
+            Console.ReadLine();
+        }
+    }
+}
+```
